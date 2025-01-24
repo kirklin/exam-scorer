@@ -1,0 +1,23 @@
+{
+ "score": 7,
+ "questions": [
+   {
+     "number": 28,
+     "parts": [
+       {
+         "number": 1,
+         "keywords": ["种皮", "子叶", "胚"]
+       },
+       {
+         "number": 2,
+         "keywords": ["胚根", "导管", "分生"]
+       },
+       {
+         "number": 3,
+         "keyword": "被子植物",
+         "note": "填写'双子叶植物'也可得分，填写'种子植物'不得分"
+       }
+     ]
+   }
+ ]
+}

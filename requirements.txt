@@ -1,0 +1,7 @@
+zhipuai
+python-dotenv
+pydantic
+requests
+Pillow
+ascii-magic
+rich
